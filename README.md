@@ -8,10 +8,21 @@
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
 
-## 📒 Descrição
-Breve descrição do seu projeto
+Claro, aqui está uma descrição básica do seu projeto para incluir no README:
+
+E-Book: A Jornada do Corinthians na Libertadores de 2012
+Este é um projeto que apresenta um e-book interativo sobre a histórica jornada do Corinthians na Copa Libertadores da América de 2012. O e-book é desenvolvido em Python usando a biblioteca Tkinter para a interface gráfica.
+
+O e-book contém os seguintes recursos:
+
+- Conteúdo Interativo: O e-book é dividido em capítulos que abordam diferentes aspectos da campanha do Corinthians na Libertadores de 2012, desde a preparação e expectativas até a final e análise dos principais jogadores.
+
+- Exibição de Imagens e Vídeos: Cada capítulo inclui imagens representativas e, além disso, há um botão para assistir a uma entrevista relacionada à jornada do Corinthians na Libertadores de 2012.
+
+- Navegação Simples: Os leitores podem navegar facilmente pelos capítulos usando botões de navegação ou simplesmente rolando para cima ou para baixo.
+
+Este projeto é uma homenagem à memorável conquista do Corinthians na Copa Libertadores da América de 2012 e oferece uma maneira interativa de reviver esse momento histórico para os torcedores do clube.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
