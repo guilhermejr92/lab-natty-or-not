@@ -10,6 +10,7 @@
 ```markdown
 
 E-Book: A Jornada do Corinthians na Libertadores de 2012
+
 Este é um projeto que apresenta um e-book interativo sobre a histórica jornada do Corinthians na Copa Libertadores da América de 2012. O e-book é desenvolvido em Python usando a biblioteca Tkinter para a interface gráfica.
 
 O e-book contém os seguintes recursos:
