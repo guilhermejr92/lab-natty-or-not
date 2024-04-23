@@ -9,8 +9,6 @@
 
 ```markdown
 
-Claro, aqui está uma descrição básica do seu projeto para incluir no README:
-
 E-Book: A Jornada do Corinthians na Libertadores de 2012
 Este é um projeto que apresenta um e-book interativo sobre a histórica jornada do Corinthians na Copa Libertadores da América de 2012. O e-book é desenvolvido em Python usando a biblioteca Tkinter para a interface gráfica.
 
