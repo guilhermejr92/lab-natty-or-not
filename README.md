@@ -24,7 +24,14 @@ O e-book contém os seguintes recursos:
 Este projeto é uma homenagem à memorável conquista do Corinthians na Copa Libertadores da América de 2012 e oferece uma maneira interativa de reviver esse momento histórico para os torcedores do clube.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+Python: Utilizado como linguagem principal de programação para desenvolver o e-book.
+Tkinter: Biblioteca de interface gráfica usada para criar a interface do usuário.
+PIL (Python Imaging Library): Biblioteca utilizada para manipulação de imagens.
+pytube: Utilizado para baixar vídeos do YouTube.
+Webbrowser: Usado para abrir o navegador padrão e reproduzir vídeos do YouTube.
+HTML, CSS e JavaScript: Para criar a versão web do e-book.
+Chatgpt
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
